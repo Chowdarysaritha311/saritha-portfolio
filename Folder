@@ -1,0 +1,9 @@
+portfolio-site/
+├── index.html
+├── style.css
+├── README.md
+├── .gitignore
+├── LICENSE
+└── assets/
+    └── img/
+        └── profile.jpg
