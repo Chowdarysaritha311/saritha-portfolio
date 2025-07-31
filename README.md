@@ -7,7 +7,7 @@ A clean, responsive personal portfolio website built using HTML and CSS. Showcas
 
 ## 🖼️ Screenshot
 
-![Portfolio Preview](assets/img/screenshot.jpg)
+![Portfolio Preview](assets/img/profile.jpg)
 
 ## 🛠️ Tech Stack
 - HTML5
